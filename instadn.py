@@ -1,7 +1,7 @@
 # GUI
-from PyQt5 import QtWidgets, QtCore, QtGui
-from PyQt5.QtCore import QTimer, QTime, QDate, Qt
-from PyQt5.QtGui import QMovie
+from PyQt5 import QtWidgets, QtCore, QtGui                         #ignore this line
+from PyQt5.QtCore import QTimer, QTime, QDate, Qt                  #ignore this line
+from PyQt5.QtGui import QMovie                                     #ignore this line
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
