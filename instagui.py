@@ -23,7 +23,7 @@ class Ui_MainWindow(object):
         self.label.setGeometry(QtCore.QRect(210, 90, 181, 181))
         self.label.setAutoFillBackground(False)
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("../../Downloads/instalogo1.jpg"))
+        self.label.setPixmap(QtGui.QPixmap("instalogo1.jpg"))
         self.label.setScaledContents(True)
         self.label.setOpenExternalLinks(False)
         self.label.setObjectName("label")
